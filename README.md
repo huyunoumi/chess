@@ -1,8 +1,8 @@
-# chess
+# 概要（Overview）
 Unity C#で作成したチェスのリポジトリです。<br>
 This is a repository for a chess game created with Unity C#.
 
-# Skills
+# 環境（Environment）
 <table>
   <!-- ヘッダ -->
   <tr>
